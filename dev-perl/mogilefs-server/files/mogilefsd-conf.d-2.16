@@ -1,0 +1,4 @@
+# $Header$
+PIDFILE="/var/run/mogile/mogilefsd.pid"
+MOGILEFSD_OPTS="--daemonize --pidfile=${PIDFILE}"
+# vim: ft=gentoo-conf-d:
